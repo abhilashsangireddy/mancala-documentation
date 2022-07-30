@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.game.mancala"},{"l":"com.game.mancala.controllers"},{"l":"com.game.mancala.models"},{"l":"com.game.mancala.models.dto"},{"l":"com.game.mancala.services"},{"l":"com.game.mancala.unit"},{"l":"com.game.mancala.utils"},{"l":"com.game.mancala.utils.adapters"}];updateSearchResults();

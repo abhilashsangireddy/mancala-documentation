@@ -1,0 +1,8 @@
+com.game.mancala
+com.game.mancala.controllers
+com.game.mancala.models
+com.game.mancala.models.dto
+com.game.mancala.services
+com.game.mancala.unit
+com.game.mancala.utils
+com.game.mancala.utils.adapters
